@@ -4,5 +4,5 @@
 
 系统设计图：
 
-![1676429895440](C:\Users\86136\AppData\Roaming\Typora\typora-user-images\1676429895440.png)
+https://github.com/caicancai/RPC_learning/blob/main/picture/1.png
 
