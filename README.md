@@ -4,5 +4,5 @@
 
 系统设计图：
 
-https://github.com/caicancai/RPC_learning/blob/main/picture/1.png
+![image](https://user-images.githubusercontent.com/77189278/218916335-80a7b9a0-1cc5-46d3-8b08-22aeffdc44ec.png)
 
